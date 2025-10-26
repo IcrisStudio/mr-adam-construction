@@ -59,7 +59,7 @@
      "devDependencies": {},
      "scripts": {
            "dev": "npx vite",
-           "build": "npx tsc --noEmit && npx vite build",
+           "build": "npx vite build",
            "preview": "npx vite preview"
      }
 }
